@@ -1,1 +1,1 @@
-Sitemap: https://jbiardi.github.io/lab-website-template/sitemap.xml
+Sitemap: http://biardilab.org/sitemap.xml
