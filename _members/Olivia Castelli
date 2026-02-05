@@ -1,11 +1,11 @@
 ---
-name: Olivia Castelli 
-image: images/photo.jpg
-role: undergraduate - researcher 
-affiliation: Fairfield University 
+name: Olivia Castelli
+image: /images/photo.jpg
+role: undergraduate-researcher
+affiliation: Fairfield University
 aliases:
-  - O. Castelli 
-  - Olivia C. 
+  - O. Castelli
+  - Olivia C.
 links:
   home-page: https://github.com/your-username
 ---
