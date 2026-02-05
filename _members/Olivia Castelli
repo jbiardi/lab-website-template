@@ -1,14 +1,13 @@
 ---
-name: Jane Smith
+name: Olivia Castelli 
 image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+role: undergraduate - researcher 
+affiliation: Fairfield University 
 aliases:
-  - J. Smith
-  - J Smith
+  - O. Castelli 
+  - Olivia C. 
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://github.com/your-username
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
