@@ -1,6 +1,6 @@
 ---
 name: Dr. James Biardi
-image: images/photo.jpg
+image: images/IMG_2146.png
 role: Principal Investigator
 affiliation: Fairfield University, Department of Biology
 links:
